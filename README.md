@@ -24,19 +24,15 @@ I am a passionate Full-Stack Web Developer with a strong foundation in Computer 
 - **Areas of Expertise**: Data Structures and Algorithms in C++ and Python, Operating Systems, Computer Networks, DBMS, Object-Oriented Programming (OOP)
 
 ### Education
-B.Tech., Computer Engineering, 2026
-Thapar Institute of Engineering and Technology (TIET), Patiala
-
-12th Grade, Non-Medical Sciences, 2022
-CBSE, Suncity World School, Gurugram
-
-10th Grade, 2020
-CBSE, Suncity World School, Gurugram
+- B.Tech., Computer Engineering, 2026 | Thapar Institute of Engineering and Technology (TIET), Patiala
+- 12th Grade, Non-Medical Sciences, 2022 | CBSE, Suncity World School, Gurugram
+- 10th Grade, 2020 | CBSE, Suncity World School, Gurugram
 
 ### Contact Me
-Email: udaysharma1501@gmail.com
-GitHub: github.com/udaysharma1501
-LinkedIn: linkedin.com/in/uday-sharma-65562822b
-LeetCode: leetcode.com/u/udaysharma1501
+- Email: udaysharma1501@gmail.com
+- GitHub: github.com/udaysharma1501
+- LinkedIn: linkedin.com/in/uday-sharma-65562822b
+- LeetCode: leetcode.com/u/udaysharma1501
 
-Feel free to explore my repositories and reach out if you'd like to collaborate on any projects or have any questions!
+
+### **Feel free to explore my repositories and reach out if you'd like to collaborate on any projects or have any questions!**
