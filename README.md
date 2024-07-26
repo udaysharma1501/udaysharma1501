@@ -16,12 +16,12 @@ I am a passionate Full-Stack Web Developer with a strong foundation in Computer 
 - Description: Developed a blockchain-powered system to generate CIBIL scores tailored for farmers by leveraging data from their previous produce. Utilized Twilio for API authentication and Gradio for the UI. This project highlights my skills in blockchain technology and API integrations.
 
 ### Technical Skills
-**Languages**: C, C++, Python
-**Frontend**: HTML/CSS, Tailwind CSS, JavaScript, TypeScript, ReactJS, ThreeJS
-**Backend**: NodeJS, ExpressJS, REST API, JWT
-**Database**: Mongoose, MongoDB, Oracle SQL
-**Other Skills**: Git, GitHub, Ubuntu, VM Configuration, FL Studio, Blender, Adobe Premiere Pro, Adobe Photoshop, AutoCAD, SolidWorks, GNS3
-**Areas of Expertise**: Data Structures and Algorithms in C++ and Python, Operating Systems, Computer Networks, DBMS, Object-Oriented Programming (OOP)
+- **Languages**: C, C++, Python
+- **Frontend**: HTML/CSS, Tailwind CSS, JavaScript, TypeScript, ReactJS, ThreeJS
+- **Backend**: NodeJS, ExpressJS, REST API, JWT
+- **Database**: Mongoose, MongoDB, Oracle SQL
+- **Other Skills**: Git, GitHub, Ubuntu, VM Configuration, FL Studio, Blender, Adobe Premiere Pro, Adobe Photoshop, AutoCAD, SolidWorks, GNS3
+- **Areas of Expertise**: Data Structures and Algorithms in C++ and Python, Operating Systems, Computer Networks, DBMS, Object-Oriented Programming (OOP)
 
 ### Education
 B.Tech., Computer Engineering, 2026
