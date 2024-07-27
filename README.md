@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Uday Sharma 👋
 
-
+[![udaysharma1501's GitHub | Stats](https://stats.quira.sh/udaysharma1501/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=udaysharma1501)
 
 ### About Me
 I am a passionate Full-Stack Web Developer with a strong foundation in Computer Engineering. My expertise lies in creating dynamic and responsive web applications using the MERN stack and other modern technologies. I am always keen to learn new skills and take on challenging projects.
